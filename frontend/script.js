@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:5000/notes";
+const apiUrl = "https://notes-app-backend-gc0g.onrender.com/notes";
 
 const titleInput = document.getElementById("title");
 const contentInput = document.getElementById("content");
